@@ -14,7 +14,7 @@ namespace Tyuiu.ChebulaevAG.Sprint2.Task5.V11
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
+            Console.WriteLine("* Тема: Оператор switch                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #11                                                             *");
             Console.WriteLine("* Выполнил: Чебулаев Андрей Геннадьевич | РПСб-23-1                       *");
