@@ -50,8 +50,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Lib\Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib.csproj">
-      <Project>{8fe93ea5-4b15-45b8-90c6-b990d9b47518}</Project>
+    <ProjectReference Include="..\Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib\Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib.csproj">
+      <Project>{3c9b6bb4-50e9-4183-9bb7-2c31ad6ef456}</Project>
       <Name>Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib</Name>
     </ProjectReference>
   </ItemGroup>

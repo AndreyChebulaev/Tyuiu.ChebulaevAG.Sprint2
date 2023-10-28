@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Lib;
+using Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib;
 
-namespace Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Test
+namespace Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Test
 {
     [TestClass]
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidCheckDotInShadedArea()
+        public void TestMethod1()
         {
             DataService ds = new DataService();
             double x = 4;

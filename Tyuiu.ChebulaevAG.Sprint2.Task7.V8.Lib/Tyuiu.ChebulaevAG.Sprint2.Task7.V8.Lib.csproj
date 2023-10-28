@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8FE93EA5-4B15-45B8-90C6-B990D9B47518}</ProjectGuid>
+    <ProjectGuid>{3C9B6BB4-50E9-4183-9BB7-2C31AD6EF456}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -40,7 +40,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\..\DLL\tyuiu.cources.programming.interfaces.dll</HintPath>
+      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

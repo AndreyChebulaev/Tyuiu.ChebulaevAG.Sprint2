@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Lib;
+using Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib;
 
 namespace Tyuiu.ChebulaevAG.Sprint2.Task7.V8
 {

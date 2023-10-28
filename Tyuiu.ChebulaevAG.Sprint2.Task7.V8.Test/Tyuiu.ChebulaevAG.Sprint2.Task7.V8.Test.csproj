@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1B2A91E8-7B2F-4D83-89AC-328949DF3534}</ProjectGuid>
+    <ProjectGuid>{43006C00-AF5F-4799-81EC-95D1A9784612}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Test</RootNamespace>
-    <AssemblyName>Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Test</AssemblyName>
+    <RootNamespace>Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Test</RootNamespace>
+    <AssemblyName>Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,8 +56,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ChebulaevAG.Sprint2.Tasl7.V8.Lib\Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib.csproj">
-      <Project>{8fe93ea5-4b15-45b8-90c6-b990d9b47518}</Project>
+    <ProjectReference Include="..\Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib\Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib.csproj">
+      <Project>{3c9b6bb4-50e9-4183-9bb7-2c31ad6ef456}</Project>
       <Name>Tyuiu.ChebulaevAG.Sprint2.Task7.V8.Lib</Name>
     </ProjectReference>
   </ItemGroup>
